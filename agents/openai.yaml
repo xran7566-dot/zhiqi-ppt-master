@@ -1,0 +1,4 @@
+interface:
+  display_name: "智企-PPT大师"
+  short_description: "把文档和表格整理成高质量PPT，并支持版式设计与导出"
+  default_prompt: "使用 $zhiqi-ppt-master 将以下素材制作成高质量演示文稿："
